@@ -4,7 +4,7 @@
 #modul 3 : perulangan for
 #modul 4 : function return type, method
 #modul 5 : class, constructor, inheritance
-#modul 6 : getter setter (secara ga langsung, konsepnya sama aja sbnerny), abstraction
+#modul 6 : getter setter (secara ga langsung, konsepnya sama cuma dalam bentuk variabel), abstraction (dalam bentuk class abstraction)
 #modul 7 : -
 #modul 8 : widgets label, button, radiobutton, messagebox, combobox, entry
 
