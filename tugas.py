@@ -1,5 +1,5 @@
 #catatan buat tugas akhir, disini udah ada,
-#modul 1 : array, variabel
+#modul 1 : array, variabel, tipe data (string)
 #modul 2 : pengkondisian if, if not, if else
 #modul 3 : perulangan for
 #modul 4 : function return type, method
