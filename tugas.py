@@ -6,7 +6,7 @@
 #modul 5 : class, constructor, inheritance
 #modul 6 : getter setter (secara ga langsung, konsepnya sama cuma dalam bentuk variabel), abstraction (dalam bentuk class abstraction)
 #modul 7 : -
-#modul 8 : widgets label, button, radiobutton, messagebox, combobox, entry
+#modul 8 : GUI : widgets label, button, radiobutton, messagebox, combobox, entry
 
 import tkinter as tk
 from tkinter import messagebox
